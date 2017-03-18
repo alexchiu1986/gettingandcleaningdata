@@ -1,10 +1,10 @@
-##DATA DICTIONARY
+### DATA DICTIONARY
 
-Subject
+#### Subject
 	Subject Id
-		1..30
+	1..30
 
-Activity
+#### Activity
 	Activity
 		1. WALKING
 		2. WALKING_UPSTAIRS
@@ -13,241 +13,241 @@ Activity
 		5. STANDING
 		6. LAYING
 
-tBodyAcc.mean...X
+#### tBodyAcc.mean...X
 	mean of time domain body accelerometer signal on axis X
 	
-tBodyAcc.mean...Y
+#### tBodyAcc.mean...Y
 	mean of time domain body accelerometer signal on axis Y
 	
-tBodyAcc.mean...Z
+#### tBodyAcc.mean...Z
 	mean of time domain body accelerometer signal on axis Z
 	
-tBodyAcc.std...X 
+#### tBodyAcc.std...X 
 	standard deviation of time domain body accelerometer signal on axis X
 	
-tBodyAcc.std...Y
+#### tBodyAcc.std...Y
 	standard deviation of time domain body accelerometer signal on axis Y
 
-tBodyAcc.std...Z
+#### tBodyAcc.std...Z
 	standard deviation of time domain body accelerometer signal on axis Z
 	
-tGravityAcc.mean...X
+#### tGravityAcc.mean...X
 	mean of time domain gravity accelerometer signal on axis X
 	
-tGravityAcc.mean...Y 
+#### tGravityAcc.mean...Y 
 	mean of time domain gravity accelerometer signal on axis Y
 	
-tGravityAcc.mean...Z
+#### tGravityAcc.mean...Z
 	mean of time domain gravity accelerometer signal on axis Z
 	
-tGravityAcc.std...X 
+#### tGravityAcc.std...X 
 	standard deviation of time domain gravity accelerometer signal on axis X
 	
-tGravityAcc.std...Y
+#### tGravityAcc.std...Y
 	standard deviation of time domain gravity accelerometer signal on axis Y
 	
-tGravityAcc.std...Z
+#### tGravityAcc.std...Z
 	standard deviation of time domain gravity accelerometer signal on axis Z
 	
-tBodyAccJerk.mean...X 
+#### tBodyAccJerk.mean...X 
 	mean of jerk signal of time domain body accelerometer signal on axis X
 	
-tBodyAccJerk.mean...Y
+#### tBodyAccJerk.mean...Y
 	mean of jerk signal of time domain body accelerometer signal on axis Y
 	
-tBodyAccJerk.mean...Z
+#### tBodyAccJerk.mean...Z
 	mean of jerk signal of time domain body accelerometer signal on axis Z
 	
-tBodyAccJerk.std...X
+#### tBodyAccJerk.std...X
 	standard deviation of jerk signal of time domain body accelerometer signal on axis X
 	
-tBodyAccJerk.std...Y
+#### tBodyAccJerk.std...Y
 	standard deviation of jerk signal of time domain body accelerometer signal on axis Y
 
-tBodyAccJerk.std...Z
+#### tBodyAccJerk.std...Z
 	standard deviation of jerk signal of time domain body accelerometer signal on axis Z
 
-tBodyGyro.mean...X
+#### tBodyGyro.mean...X
 	mean of time domain body gyroscope signal on axis X
 
-tBodyGyro.mean...Y
+#### tBodyGyro.mean...Y
 	mean of time domain body gyroscope signal on axis Y
 
-tBodyGyro.mean...Z
+#### tBodyGyro.mean...Z
 	mean of time domain body gyroscope signal on axis Z
  
-tBodyGyro.std...X
+#### tBodyGyro.std...X
 	standard deviation of time domain body gyroscope signal on axis X
 
-tBodyGyro.std...Y
+#### tBodyGyro.std...Y
 	standard deviation of time domain body gyroscope signal on axis Y
  
-tBodyGyro.std...Z
+#### tBodyGyro.std...Z
 	standard deviation of time domain body gyroscope signal on axis Z
 
-tBodyGyroJerk.mean...X
+#### tBodyGyroJerk.mean...X
 	mean of jerk signal of time domain body gyroscope signal on axis X
 	
-tBodyGyroJerk.mean...Y
+#### tBodyGyroJerk.mean...Y
 	mean of jerk signal of time domain body gyroscope signal on axis Y
 	
-tBodyGyroJerk.mean...Z
+#### tBodyGyroJerk.mean...Z
 	mean of jerk signal of time domain body gyroscope signal on axis Z
 
-tBodyGyroJerk.std...X
+#### tBodyGyroJerk.std...X
 	standard deviation of jerk signal of time domain body gyroscope signal on axis X
 	
-tBodyGyroJerk.std...Y
+#### tBodyGyroJerk.std...Y
 	standard deviation of jerk signal of time domain body gyroscope signal on axis Y
 	
-tBodyGyroJerk.std...Z
+#### tBodyGyroJerk.std...Z
 	standard deviation of jerk signal of time domain body gyroscope signal on axis Z
 	
-tBodyAccMag.mean..
+#### tBodyAccMag.mean..
 	mean of magnitude of time domain body accelerometer signal on x, y and z
 
-tBodyAccMag.std..
+#### tBodyAccMag.std..
 	standard deviation of magnitude of time domain body accelerometer signal on x, y and z
 
-tGravityAccMag.mean..
+#### tGravityAccMag.mean..
 	mean of magnitude of time domain gravity accelerometer signal on x, y and z
  
-tGravityAccMag.std..
+#### tGravityAccMag.std..
 	standard deviation of magnitude of time domain gravity accelerometer signal on x, y and z
  
-tBodyAccJerkMag.mean..
+#### tBodyAccJerkMag.mean..
 	mean of magnitude of jerk signal derived from time domain body accelerometer signal on x, y and z
 
-tBodyAccJerkMag.std..
+#### tBodyAccJerkMag.std..
 	standard deviation of magnitude of jerk signal derived from time domain body accelerometer signal on x, y and z
 
-tBodyGyroMag.mean.. 
+#### tBodyGyroMag.mean.. 
 	mean of magnitude of time domain body gyroscope signal on x, y and z
 
-tBodyGyroMag.std.. 
+#### tBodyGyroMag.std.. 
 	standard deviation of magnitude of time domain body gyroscope signal on x, y and z
 
-tBodyGyroJerkMag.mean..
+#### tBodyGyroJerkMag.mean..
 	mean of magnitude of jerk signal derived from time domain body gyroscope signal on x, y and z
 
-tBodyGyroJerkMag.std..
+#### tBodyGyroJerkMag.std..
 	standard deviation of magnitude of jerk signal derived from time domain body gyroscope signal on x, y and z
 
-fBodyAcc.mean...X
+#### fBodyAcc.mean...X
 	mean of body accelerometer frequency signal on axis X
  
-fBodyAcc.mean...Y
+#### fBodyAcc.mean...Y
 	mean of body accelerometer frequency signal on axis Y
  
-fBodyAcc.mean...Z
+#### fBodyAcc.mean...Z
 	mean of body accelerometer frequency signal on axis Z
  
-fBodyAcc.std...X
+#### fBodyAcc.std...X
 	standard deviation of body accelerometer frequency signal on axis X
  
-fBodyAcc.std...Y
+#### fBodyAcc.std...Y
 	standard deviation of body accelerometer frequency signal on axis Y
  
-fBodyAcc.std...Z
+#### fBodyAcc.std...Z
 	standard deviation of body accelerometer frequency signal on axis Z
  
-fBodyAcc.meanFreq...X
+#### fBodyAcc.meanFreq...X
 	mean frequency of body accelerometer frequency signal on axis X
  
-fBodyAcc.meanFreq...Y
+#### fBodyAcc.meanFreq...Y
 	mean frequency of body accelerometer frequency signal on axis Y
  
-fBodyAcc.meanFreq...Z
+#### fBodyAcc.meanFreq...Z
 	mean frequency of body accelerometer frequency signal on axis Z
  
-fBodyAccJerk.mean...X
+#### fBodyAccJerk.mean...X
 	mean of jerk signal derived from body accelerometer frequency signal on axis X
  
-fBodyAccJerk.mean...Y
+#### fBodyAccJerk.mean...Y
 	mean of jerk signal derived from body accelerometer frequency signal on axis Y
 
-fBodyAccJerk.mean...Z
+#### fBodyAccJerk.mean...Z
 	mean of jerk signal derived from body accelerometer frequency signal on axis Z
  
-fBodyAccJerk.std...X
+#### fBodyAccJerk.std...X
 	standard deviation of jerk signal derived from body accelerometer frequency signal on axis X
  
-fBodyAccJerk.std...Y
+#### fBodyAccJerk.std...Y
 	standard deviation of jerk signal derived from body accelerometer frequency signal on axis Y
  
-fBodyAccJerk.std...Z
+#### fBodyAccJerk.std...Z
 	standard deviation of jerk signal derived from body accelerometer frequency signal on axis Z
 
-fBodyAccJerk.meanFreq...X
+#### fBodyAccJerk.meanFreq...X
 	mean frequency of jerk signal derived from body accelerometer frequency signal on axis X
  
-fBodyAccJerk.meanFreq...Y
+#### fBodyAccJerk.meanFreq...Y
 	mean frequency of jerk signal derived from body accelerometer frequency signal on axis Y
 
  
-fBodyAccJerk.meanFreq...Z
+#### fBodyAccJerk.meanFreq...Z
 	mean frequency of jerk signal derived from body accelerometer frequency signal on axis Z
  
-fBodyGyro.mean...X
+#### fBodyGyro.mean...X
 	mean of body gyroscope frequency signal on axis X 
  
-fBodyGyro.mean...Y
+#### fBodyGyro.mean...Y
 	mean of body gyroscope frequency signal on axis Y
  
-fBodyGyro.mean...Z
+#### fBodyGyro.mean...Z
 	mean of body gyroscope frequency signal on axis Z
  
-fBodyGyro.std...X
+#### fBodyGyro.std...X
 	standard deviation of body gyroscope frequency signal on axis X
 
-fBodyGyro.std...Y
+#### fBodyGyro.std...Y
 	standard deviation of body gyroscope frequency signal on axis Y
  
-fBodyGyro.std...Z
+#### fBodyGyro.std...Z
 	standard deviation of body gyroscope frequency signal on axis Z
  
-fBodyGyro.meanFreq...X
+#### fBodyGyro.meanFreq...X
 	mean frequency of body gyroscope frequency signal on axis X
 
-fBodyGyro.meanFreq...Y
+#### fBodyGyro.meanFreq...Y
 	mean frequency of body gyroscope frequency signal on axis Y
 
-fBodyGyro.meanFreq...Z
+#### fBodyGyro.meanFreq...Z
 	mean frequency of body gyroscope frequency signal on axis Z
  
-fBodyAccMag.mean..
+#### fBodyAccMag.mean..
 	mean of magnitude of body accelerometer frequency signal on x, y and z
  
-fBodyAccMag.std..
+#### fBodyAccMag.std..
 	standard deviation of magnitude of body accelerometer frequency signal on x, y and z
  
-fBodyAccMag.meanFreq..
+#### fBodyAccMag.meanFreq..
 	mean frequency of magnitude of body accelerometer frequency signal on x, y and z
  
-fBodyBodyAccJerkMag.mean..
+#### fBodyBodyAccJerkMag.mean..
 	mean of magnitude of jerk signal derived from body accelerometer frequency signal on x, y and z
 
-fBodyBodyAccJerkMag.std..
+#### fBodyBodyAccJerkMag.std..
 	standard deviation of magnitude of jerk signal derived from body accelerometer frequency signal on x, y and z
  
-fBodyBodyAccJerkMag.meanFreq..
+#### fBodyBodyAccJerkMag.meanFreq..
 	mean frequency of magnitude of jerk signal derived from body accelerometer frequency signal on x, y and z
  
-fBodyBodyGyroMag.mean..
+#### fBodyBodyGyroMag.mean..
 	mean of magnitude of body gyroscope frequency signal on x, y and z
  
-fBodyBodyGyroMag.std..
+#### fBodyBodyGyroMag.std..
 	standard deviation of magnitude of body gyroscope frequency signal on x, y and z
  
-fBodyBodyGyroMag.meanFreq..
+#### fBodyBodyGyroMag.meanFreq..
 	mean frequency of magnitude of body gyroscope frequency signal on x, y and z
  
-fBodyBodyGyroJerkMag.mean..
+#### fBodyBodyGyroJerkMag.mean..
 	mean of magnitude of jerk signal derived from body gyroscope frequency signal on x, y and z
 
-fBodyBodyGyroJerkMag.std..
+#### fBodyBodyGyroJerkMag.std..
 	standard deviation of magnitude of jerk signal derived from body gyroscope frequency signal on x, y and z
  
-fBodyBodyGyroJerkMag.meanFreq..
+#### fBodyBodyGyroJerkMag.meanFreq..
 	mean frequency of magnitude of jerk signal derived from body gyroscope frequency signal on x, y and z
 	
